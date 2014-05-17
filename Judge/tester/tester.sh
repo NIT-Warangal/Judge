@@ -1,8 +1,6 @@
 #!/bin/bash
 
-#    In the name of ALLAH
-#    Sharif Judge
-#    Copyright (C) 2014  Mohammad Javad Naderi <mjnaderi@gmail.com>
+#    NITW Judge
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -20,12 +18,12 @@
 
 
 ##################### Example Usage #####################
-# tester.sh /home/mohammad/judge/homeworks/hw6/p1 mjn problem problem c 1 1 50000 1000000 diff -bB 1 1 1 0 1 1
+# tester.sh /home/user/judge/homeworks/hw6/p1 mjn problem problem c 1 1 50000 1000000 diff -bB 1 1 1 0 1 1
 # In this example judge assumes that the file is located at:
-# /home/mohammad/judge/homeworks/hw6/p1/mjn/problem.c
+# /home/user/judge/homeworks/hw6/p1/mjn/problem.c
 # And test cases are located at:
-# /home/mohammad/judge/homeworks/hw6/p1/in/  {input1.txt, input2.txt, ...}
-# /home/mohammad/judge/homeworks/hw6/p1/out/ {output1.txt, output2.txt, ...}
+# /home/user/judge/homeworks/hw6/p1/in/  {input1.txt, input2.txt, ...}
+# /home/user/judge/homeworks/hw6/p1/out/ {output1.txt, output2.txt, ...}
 
 
 
